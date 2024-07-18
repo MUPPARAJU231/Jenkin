@@ -5,7 +5,7 @@
     <classes>
       <class name="amazon_Scenarios.TestCase1"/>
       <class name="amazon_Scenarios.TestCase2"/>
-      <class name="selenium_Project1.Testcase3"/>
+      <class name="amazon_Scenarios.Testcase3"/>
       <class name="amazon_Scenarios.TestCase4"/>
       <class name="amazon_Scenarios.TestCase5"/>
       <class name="amazon_Scenarios.TestCase_fb"/>
